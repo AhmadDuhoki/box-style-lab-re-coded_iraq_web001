@@ -56,3 +56,7 @@ h4 {
 .large {
   width: 303%;
 }
+
+img {
+  border: 1px solid dark
+}
